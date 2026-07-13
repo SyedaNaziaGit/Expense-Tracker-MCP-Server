@@ -147,4 +147,10 @@ uv run fastmcp install claude-desktop main.py
 configure the json file on claude desktop setting:
 change the paths accordingly
 
+<img width="857" height="277" alt="image" src="https://github.com/user-attachments/assets/312e336a-6e80-480a-9f86-2d9da102ff86" />
 
+
+
+
+
+<img width="857" height="277" alt="image" src="https://github.com/user-attachments/assets/70ceb26d-d0c1-4beb-acf3-29e7f881e6b3" />
